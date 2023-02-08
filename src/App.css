@@ -2,30 +2,33 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+#header{
+  background-color: #FFCD9E;
+  padding-top: 84px;
+  padding-left: 137px;
+  padding-bottom: 116px;
+  
+}
+.container{
+  text-align: center;
+}
+h4{
+  font-family: 'Inter';
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.input{
+  border-left: 2px;
+}
+
+p{
   color: white;
+  size: 1ch;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-.heart {
-  color: #ff0000;
-}
-
-.small {
-  font-size: 0.75rem;
+#footer{
+  background-color: black;
+  padding-top: 84px;
+  padding-left: 50px;
+  padding-bottom: 116px;
+  
+  
 }
